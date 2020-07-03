@@ -1,0 +1,7 @@
+name: FoldingTokens
+version: 1.0
+author: Megasus
+main: Main.Main
+commands: 
+   foldingt:
+depend: [PlayerPoints]
